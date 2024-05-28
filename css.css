@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+body
+{
+background-color: darkblue;
+}
+h1{
+    color:white;
+    text-align:centre;
+}
+p{
+    font-family:verdana;
+    font-size: 20px;
+}
+</style>
+</head>
+<body>
+<h1>my first paragraph css</h1>
+<p>this is a css language</p>
+</body>
+</html>
